@@ -5,6 +5,7 @@
 <a href="https://kusonportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-kusonportfolio.netlify.app-white?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="mailto:kuson2552.14@gmail.com"><img src="https://img.shields.io/badge/Email-kuson2552.14%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://www.instagram.com/mrpep_coco/"><img src="https://img.shields.io/badge/Instagram-%40mrpep__coco-white?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/Discord-.mr.pep-white?style=for-the-badge&logo=discord&logoColor=black" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&pause=1000&color=999999&center=true&vCenter=true&width=700&lines=Creative+technologist+%E2%80%94+design%2C+code%2C+and+interactive+media;Every+idea+seen+through+the+eyes+of+a+creator;Every+idea+built+with+the+spirit+of+an+entrepreneur;Not+just+a+career+%E2%80%94+a+way+of+life." />
 
@@ -44,12 +45,12 @@ My personal site — and my proof of work. It's where I turned my own passion an
 
 News is overwhelming right now — information overload, FOMO, and everyone arguing the same topic from different corners instead of just getting the facts. NewsFlow pulls stories under one shared theme instead of splitting them into competing narratives, and gives an instant AI summary so you get the real news without the noise. **Less click, less read** — the same time saved on any topic, at any time.
 
-### 🎓 [Gritt Education](https://gritt-app.netlify.app/)
+### [Gritt Education](https://gritt-app.netlify.app/)
 *Front-end · AI Developer · Project Manager*
 
 Gritt takes the same problem NewsFlow solves and points it at a specific audience: students. It's part discipline tracker — the day-by-day tasks you need to force yourself through — and part AI study assistant that helps you build your own term schedule and improve how you work. It also feeds you news that's actually relevant to a student: education updates, university admissions, and scholarships. Gritt exists because discipline is a value worth building tools around, not just a personality trait some people happen to have.
 
-### 🕶️ Cave Heist — VR Exhibition
+### Cave Heist — VR Exhibition
 *Unity Game Developer · Project Manager · VR Engineer*
 
 As the host for Open House, I wanted to bring something new. Inspired by a school trip to a VR center in M.6, I adapted Unity's VR camera system together with a mobile phone's gyroscope and a game controller to recreate that VR feeling on a small scale for my own project. After sharing it, the project became one of IM Academic's most popular pieces of content, drawing 100+ likes and over a thousand views on the IM Academic Open House Instagram post.
@@ -94,6 +95,7 @@ If you're building something, hiring, or just want to talk about an idea — I'm
 
 <a href="mailto:kuson2552.14@gmail.com"><img src="https://img.shields.io/badge/Email-kuson2552.14%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 <a href="https://www.instagram.com/mrpep_coco/"><img src="https://img.shields.io/badge/Instagram-%40mrpep__coco-white?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+<img src="https://img.shields.io/badge/Discord-.mr.pep-white?style=for-the-badge&logo=discord&logoColor=black" />
 <a href="https://kusonportfolio.netlify.app/contact.html"><img src="https://img.shields.io/badge/Contact%20Page-kusonportfolio.netlify.app-white?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 
 </div>

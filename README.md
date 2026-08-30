@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=200&section=header&text=Kuson%20Wanaratmongkol&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%20%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5&descAlignY=58&descSize=18&descColor=999999" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:16213e,100:0f3460&height=220&section=header&text=Kuson%20Wanaratmongkol&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=%E0%B8%81%E0%B8%B8%E0%B8%A8%E0%B8%A5%20%E0%B8%A7%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5&descAlignY=55&descSize=18&descColor=cccccc" alt="Kuson Wanaratmongkol banner" width="100%"/>
 
 <a href="https://kusonportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-kusonportfolio.netlify.app-white?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 <a href="mailto:kuson2552.14@gmail.com"><img src="https://img.shields.io/badge/Email-kuson2552.14%40gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black" /></a>
@@ -15,6 +15,8 @@
 ## Who I Am
 
 I'm **Kuson Wanaratmongkol (กุศล วนารัตน์มงคล)** — an IM-major high schooler working at the point where **technology, art, and business converge**. I see every idea through the eyes of a creator, and I build it with the spirit of an entrepreneur.
+
+In short: I build AI-powered products (NewsFlow, Gritt) and VR/AR experiences (Cave Heist).
 
 This repo is the source of my GitHub profile — the short version of everything I've built, why I built it, and where I'm headed. The long version lives on my portfolio: **[kusonportfolio.netlify.app](https://kusonportfolio.netlify.app/)**.
 
@@ -33,13 +35,24 @@ I don't treat design, code, and strategy as separate disciplines — a product i
 ## What I'm Building
 
 ### 🌐 [Kuson Portfolio](https://kusonportfolio.netlify.app/)
+*Front-end · Back-end · Everything*
+
 My personal site — and my proof of work. It's where I turned my own passion and output into something people can actually see: what I've done, what I'm capable of, and a reason to reach out. Beyond the content, it's also a hands-on demonstration of front-end craft — sitemap and site architecture, on-page SEO, Core Web Vitals / PageSpeed performance, and Google Search Console monitoring, all built and tuned myself. It's the front door to my future career.
 
 ### 📰 [NewsFlow NextInno](https://newsflownextinno.netlify.app/)
+*Front-end · AI Developer · Project Manager*
+
 News is overwhelming right now — information overload, FOMO, and everyone arguing the same topic from different corners instead of just getting the facts. NewsFlow pulls stories under one shared theme instead of splitting them into competing narratives, and gives an instant AI summary so you get the real news without the noise. **Less click, less read** — the same time saved on any topic, at any time.
 
 ### 🎓 [Gritt Education](https://gritt-app.netlify.app/)
+*Front-end · AI Developer · Project Manager*
+
 Gritt takes the same problem NewsFlow solves and points it at a specific audience: students. It's part discipline tracker — the day-by-day tasks you need to force yourself through — and part AI study assistant that helps you build your own term schedule and improve how you work. It also feeds you news that's actually relevant to a student: education updates, university admissions, and scholarships. Gritt exists because discipline is a value worth building tools around, not just a personality trait some people happen to have.
+
+### 🕶️ Cave Heist — VR Exhibition
+*Unity Game Developer · Project Manager · VR Engineer*
+
+As the host for Open House, I wanted to bring something new. Inspired by a school trip to a VR center in M.6, I adapted Unity's VR camera system together with a mobile phone's gyroscope and a game controller to recreate that VR feeling on a small scale for my own project. After sharing it, the project became one of IM Academic's most popular pieces of content, drawing 100+ likes and over a thousand views on the IM Academic Open House Instagram post.
 
 ## Currently
 
@@ -49,24 +62,25 @@ Gritt takes the same problem NewsFlow solves and points it at a specific audienc
 
 ## Selected Awards & Activities
 
-- 🏆 SDGs Young Creator — Gen 1
-- 🧱 SPSMVERSE Roblox Recognition (development credit)
-- 🥈 Top Content & 2nd Place
-- 🥈 2nd Place (competition)
-- 🎤 President & Organizer
-- 🕶️ Open House VR Host — built and hosted a Unity VR showcase for Open House
+- SDGs Young Creator — Gen 1
+- SPSMVERSE Roblox Recognition (development credit)
+- Top Content & 2nd Place
+- 2nd Place (competition)
+- President & Organizer
+- Open House VR Host — built and hosted a Unity VR showcase for Open House
 
 Full details, certificates, and write-ups: **[kusonportfolio.netlify.app/awards.html](https://kusonportfolio.netlify.app/awards.html)**
 
 ## Toolbox
 
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square&logo=csharp&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-black?style=flat-square&logo=roblox&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwindcss&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-black?style=flat-square&logo=openai&logoColor=white)
-![AR / NFC](https://img.shields.io/badge/AR%20%2F%20NFC-black?style=flat-square&logo=arkit&logoColor=white)
+![AR / NFC](https://img.shields.io/badge/AR%20%2F%20NFC-black?style=flat-square)
 
 ## What I Want
 
@@ -87,5 +101,5 @@ If you're building something, hiring, or just want to talk about an idea — I'm
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0a0a0a&height=160&section=footer&animation=fadeIn&reversal=true" width="100%"/>
 </div>
